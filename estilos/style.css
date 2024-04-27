@@ -32,3 +32,11 @@ section#quadro {
     transform: translate(-50%, -50%);
     background: url('../imagens/frame.jpg') no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 13.1px;
+    left: 13.1px;
+    width: 285.5px;
+    height: 407px;
+}
