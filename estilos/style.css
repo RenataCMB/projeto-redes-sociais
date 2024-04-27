@@ -35,10 +35,11 @@ section#quadro {
 
 iframe#tela {
     position: relative;
-    top: 13.1px;
-    left: 13.1px;
-    width: 285.5px;
-    height: 407px;
+    top: 12.1px;
+    left: 11.1px;
+    width: 287.5px;
+    height: 408px;
+    background-color: black;
 }
 
 section#menu {
